@@ -1,0 +1,8 @@
+transformers
+torch
+sentence_transformers
+pymongo
+accelerate
+beautifulsoup4
+trafilatura
+dataset
